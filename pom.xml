@@ -11,7 +11,7 @@
 	<groupId>org.cours.springboot</groupId>
 	<artifactId>cours-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Introduction a Spring Boot</name>
+	<name>QA atelier</name>
 	<description>Project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
