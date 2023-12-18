@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @RequestMapping("/")
     public String bienvenueSpring(){
-        return "Bienvenido 3ndna";
+        return "Bienvenido 3ndna 3awtano";
     }
 }
