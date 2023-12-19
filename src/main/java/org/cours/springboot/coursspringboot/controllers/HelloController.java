@@ -8,6 +8,5 @@ public class HelloController {
     @RequestMapping("/")
     public String bienvenidoSpring(){
         return "Bienvenido";
-
     }
 }
